@@ -10,7 +10,7 @@ GuidanceHub better enables learners in making an informed career path decision, 
 Clone the project
 
 ```bash
-  git clone https://gitlab.thedigitalacademy.co.za/Sbusiso/careerhub.git
+  https://github.com/The-DigitalAcademy/guidenceApp.git
 ```
 
 ## Prerequisite
